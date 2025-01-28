@@ -22,6 +22,8 @@ using std::cout; // Defining which cout is used.
 
 int main()
 {
+
+
     cout << "Hello, World!\n"; // Writing to the console.
 
     return 0; // The program has executed as intended.
